@@ -4,7 +4,7 @@
     </head>
     <body>
         <h3>My Socket Blog</h3>
-        <form action="post.php" method="post">
+        <form action="./post.php" method="post">
 
             <label>Title</label>
             <input type="text" name="title">
